@@ -1,57 +1,63 @@
-تنطبق سياسة الخصوصية هذه على تطبيق گەیاندنی خێرا (ويُشار إليه فيما بعد بـ "التطبيق") للأجهزة المحمولة الذي تم إنشاؤه بواسطة Drustek (ويُشار إليه فيما بعد بـ "مزود الخدمة") كخدمة مجانية. هذه الخدمة مخصصة للاستخدام "كما هي".
-جمع المعلومات واستخدامها
+**Privacy Policy**
 
-يقوم التطبيق بجمع المعلومات عند تنزيله واستخدامه. قد تتضمن هذه المعلومات ما يلي:
+This privacy policy applies to the گەیاندنی خێرا app (hereby referred to as "Application") for mobile devices that was created by Drustek (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
-عنوان بروتوكول الإنترنت لجهازك (على سبيل المثال، عنوان IP)
-الصفحات التي تزورها داخل التطبيق، وتاريخ ووقت زيارتك، والمدة التي قضيتها في تلك الصفحات
-الوقت الذي قضيته على التطبيق
-نظام التشغيل الذي تستخدمه على جهازك المحمول
-لا يقوم التطبيق بجمع معلومات دقيقة عن الموقع الجغرافي لجهازك المحمول.
-يجمع التطبيق موقع جهازك، مما يساعد مزود الخدمة على تحديد موقعك الجغرافي التقريبي واستخدامه بالطرق التالية:
+** Information Collection and Use **
 
-خدمات تحديد الموقع: يستخدم مزود الخدمة بيانات الموقع لتوفير ميزات مثل المحتوى المخصص، والتوصيات ذات الصلة، والخدمات المعتمدة على الموقع.
-التحليلات والتحسين: تساعد بيانات الموقع المجمعة والمجهولة الهوية مزود الخدمة على تحليل سلوك المستخدمين، وتحديد الاتجاهات، وتحسين الأداء والوظائف العامة للتطبيق.
-الخدمات الخارجية: قد يقوم مزود الخدمة بشكل دوري بإرسال بيانات الموقع المجهولة إلى خدمات خارجية تساعده في تحسين التطبيق وتحسين عروضه.
-قد يستخدم مزود الخدمة المعلومات التي تقدمها للتواصل معك من وقت لآخر لتزويدك بمعلومات مهمة، أو إشعارات ضرورية، أو عروض ترويجية.
-لتحسين التجربة أثناء استخدام التطبيق، قد يطلب منك مزود الخدمة تزويده ببعض المعلومات الشخصية المحددة. ستُحتفظ هذه المعلومات من قبل مزود الخدمة وتُستخدم كما هو موضح في سياسة الخصوصية هذه.
+The Application collects information when you download and use it. This information may include information such as
 
-الوصول من قبل أطراف ثالثة
+*   Your device's Internet Protocol address (e.g. IP address)
+*   The operating system you use on your mobile device
+*   The Application gathers precise information about the location of your mobile device.
 
-يتم إرسال البيانات المجمعة والمجهولة بشكل دوري إلى خدمات خارجية لمساعدة مزود الخدمة في تحسين التطبيق وخدماته. قد يشارك مزود الخدمة معلوماتك مع أطراف ثالثة كما هو موضح في بيان الخصوصية هذا.
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
 
-قد يفصح مزود الخدمة عن المعلومات المقدمة من المستخدم والمجمعة تلقائيًا:
+*   Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
+*   Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
+*   Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
 
-حسب ما يتطلبه القانون، مثل الامتثال لأمر استدعاء أو إجراء قانوني مماثل؛
-عندما يعتقد بحسن نية أن الإفصاح ضروري لحماية حقوقه أو سلامتك أو سلامة الآخرين، أو للتحقيق في عمليات الاحتيال، أو للرد على طلب حكومي؛
-مع مزودي الخدمات الموثوق بهم الذين يعملون نيابة عنه، ولا يستخدمون المعلومات لأغراض مستقلة، وقد وافقوا على الالتزام بالقواعد المنصوص عليها في بيان الخصوصية هذا.
-حقوق الانسحاب
-يمكنك إيقاف جمع المعلومات من قبل التطبيق بسهولة عن طريق إلغاء تثبيته. يمكنك استخدام طرق الإلغاء القياسية المتاحة كجزء من جهازك المحمول أو من خلال متجر التطبيقات أو الشبكة.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
-سياسة الاحتفاظ بالبيانات
+For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
-سيحتفظ مزود الخدمة بالبيانات التي يقدمها المستخدم طالما أنك تستخدم التطبيق ولمدة زمنية معقولة بعد ذلك. إذا كنت ترغب في أن يحذف مزود الخدمة البيانات التي قدمتها عبر التطبيق، يرجى التواصل عبر البريد الإلكتروني: fastapp.dilevery@gmail.com، وسيتم الرد في وقت معقول.
+**Third Party Access**
 
-الأطفال
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
-لا يستخدم مزود الخدمة التطبيق عن علم لجمع بيانات أو التسويق للأطفال دون سن 13 عامًا.
+The Service Provider may disclose User Provided and Automatically Collected Information:
 
-لا يجمع مزود الخدمة عن علم معلومات شخصية من الأطفال. ويشجع جميع الأطفال على عدم تقديم أي معلومات شخصية من خلال التطبيق و/أو الخدمات. كما يشجع الآباء والأوصياء القانونيين على مراقبة استخدام أطفالهم للإنترنت والمساعدة في تطبيق هذه السياسة من خلال توجيههم لعدم تقديم أي معلومات شخصية عبر التطبيق و/أو الخدمات بدون إذنهم. إذا كان لديك سبب للاعتقاد بأن طفلًا قد قدم معلومات شخصية لمزود الخدمة عبر التطبيق و/أو الخدمات، يرجى التواصل عبر البريد الإلكتروني (fastapp.dilevery@gmail.com) لاتخاذ الإجراءات اللازمة. يجب أن يكون عمرك على الأقل 16 عامًا للموافقة على معالجة معلوماتك الشخصية في بلدك (وفي بعض البلدان قد نسمح لوالدك أو وصيك القانوني بالقيام بذلك نيابة عنك).
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
-الأمان
+**Opt-Out Rights**
 
-يهتم مزود الخدمة بحماية سرية معلوماتك. يوفر مزود الخدمة وسائل حماية مادية وإلكترونية وإجرائية لحماية المعلومات التي يعالجها ويحتفظ بها.
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-التغييرات
+**Data Retention Policy**
 
-قد يتم تحديث سياسة الخصوصية هذه من وقت لآخر لأي سبب. سيقوم مزود الخدمة بإخطارك بأي تغييرات من خلال تحديث هذه الصفحة بسياسة الخصوصية الجديدة. يُنصح بمراجعة سياسة الخصوصية هذه بانتظام للاطلاع على أي تغييرات، حيث يُعد استمرار استخدامك موافقة على جميع التغييرات.
+The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at fastapp.dilevery@gmail.com and they will respond in a reasonable time.
 
-تسري سياسة الخصوصية هذه اعتبارًا من 2025-08-13
+**Children**
 
-موافقتك
+The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
 
-باستخدامك للتطبيق، فإنك توافق على معالجة معلوماتك كما هو موضح في سياسة الخصوصية هذه الآن وكما سيتم تعديلها من قبلنا.
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (fastapp.dilevery@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
-اتصل بنا
+**Security**
 
-إذا كان لديك أي أسئلة بخصوص الخصوصية أثناء استخدام التطبيق، أو لديك أسئلة حول الممارسات، يرجى التواصل مع مزود الخدمة عبر البريد الإلكتروني: fastapp.dilevery@gmail.com.
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
+**Changes**
+
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+This privacy policy is effective as of 2025-08-17
+
+**Your Consent**
+
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at fastapp.dilevery@gmail.com.
